@@ -1,4 +1,4 @@
 basic-site
 ==========
 
-Basic site files for quick launch
+Basic site files for quick launch - versioning
